@@ -1,0 +1,13 @@
+구글링 검색어 : compiler.automake.allow.when.app.running 없음
+
+검색한 블로그 : https://imspear.tistory.com/m/138?category=861182
+
+상단 네비게이터에서
+    File > Settings 클릭
+
+1. Build, Execution, Deployment > Compiler 에서
+    □ Build project automatically 체크
+
+2. Advanced Settings 에서
+    Compiler
+    □ Allow auto-make to start even if developed application is currently running 클릭
