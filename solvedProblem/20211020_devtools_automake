@@ -17,3 +17,6 @@
 2. Advanced Settings 에서
     Compiler
     □ Allow auto-make to start even if developed application is currently running 클릭
+
+전 후 차이
+  : 서버를 내렸다가 올리지 않아도 알아서 빌드가 된다.
