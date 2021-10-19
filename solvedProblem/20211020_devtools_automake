@@ -1,3 +1,9 @@
+개요
+  : Shift 키를 두번 연속으로 눌러서 Registry 에서
+    "compiler.automake.allow.when.app.running" 을 체크하려했는데
+    "compiler.automake.allow.when.app.running" 자체가 Registry 에 없는 현상 발생
+
+
 구글링 검색어 : compiler.automake.allow.when.app.running 없음
 
 검색한 블로그 : https://imspear.tistory.com/m/138?category=861182
